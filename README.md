@@ -17,3 +17,5 @@ error_reporting = E_ALL ^ E_DEPRECATED
 
 Save and exit.
 You are welcome.
+
+This will only work until mysql is not supported at all anymore.
